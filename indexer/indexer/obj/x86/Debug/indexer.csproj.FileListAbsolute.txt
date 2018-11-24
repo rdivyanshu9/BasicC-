@@ -1,0 +1,4 @@
+C:\Users\User\AppData\Local\Temporary Projects\indexer\bin\Debug\indexer.exe
+C:\Users\User\AppData\Local\Temporary Projects\indexer\bin\Debug\indexer.pdb
+C:\Users\User\AppData\Local\Temporary Projects\indexer\obj\x86\Debug\indexer.exe
+C:\Users\User\AppData\Local\Temporary Projects\indexer\obj\x86\Debug\indexer.pdb

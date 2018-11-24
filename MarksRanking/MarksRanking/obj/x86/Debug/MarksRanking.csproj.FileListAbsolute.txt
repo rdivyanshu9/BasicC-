@@ -1,0 +1,4 @@
+C:\Users\User\AppData\Local\Temporary Projects\MarksRanking\bin\Debug\MarksRanking.exe
+C:\Users\User\AppData\Local\Temporary Projects\MarksRanking\bin\Debug\MarksRanking.pdb
+C:\Users\User\AppData\Local\Temporary Projects\MarksRanking\obj\x86\Debug\MarksRanking.exe
+C:\Users\User\AppData\Local\Temporary Projects\MarksRanking\obj\x86\Debug\MarksRanking.pdb
