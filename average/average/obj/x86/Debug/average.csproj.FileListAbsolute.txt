@@ -1,0 +1,4 @@
+C:\Users\User\AppData\Local\Temporary Projects\average\bin\Debug\average.exe
+C:\Users\User\AppData\Local\Temporary Projects\average\bin\Debug\average.pdb
+C:\Users\User\AppData\Local\Temporary Projects\average\obj\x86\Debug\average.exe
+C:\Users\User\AppData\Local\Temporary Projects\average\obj\x86\Debug\average.pdb

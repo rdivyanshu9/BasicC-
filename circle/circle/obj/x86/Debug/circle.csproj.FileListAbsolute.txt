@@ -1,0 +1,4 @@
+C:\Users\User\AppData\Local\Temporary Projects\circle\bin\Debug\circle.exe
+C:\Users\User\AppData\Local\Temporary Projects\circle\bin\Debug\circle.pdb
+C:\Users\User\AppData\Local\Temporary Projects\circle\obj\x86\Debug\circle.exe
+C:\Users\User\AppData\Local\Temporary Projects\circle\obj\x86\Debug\circle.pdb

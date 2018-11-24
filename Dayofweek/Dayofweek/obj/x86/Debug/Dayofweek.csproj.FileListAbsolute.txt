@@ -1,0 +1,4 @@
+C:\Users\User\AppData\Local\Temporary Projects\Dayofweek\bin\Debug\Dayofweek.exe
+C:\Users\User\AppData\Local\Temporary Projects\Dayofweek\bin\Debug\Dayofweek.pdb
+C:\Users\User\AppData\Local\Temporary Projects\Dayofweek\obj\x86\Debug\Dayofweek.exe
+C:\Users\User\AppData\Local\Temporary Projects\Dayofweek\obj\x86\Debug\Dayofweek.pdb

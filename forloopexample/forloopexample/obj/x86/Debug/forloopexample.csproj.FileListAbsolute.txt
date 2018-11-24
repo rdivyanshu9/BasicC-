@@ -1,0 +1,4 @@
+C:\Users\User\AppData\Local\Temporary Projects\forloopexample\bin\Debug\forloopexample.exe
+C:\Users\User\AppData\Local\Temporary Projects\forloopexample\bin\Debug\forloopexample.pdb
+C:\Users\User\AppData\Local\Temporary Projects\forloopexample\obj\x86\Debug\forloopexample.exe
+C:\Users\User\AppData\Local\Temporary Projects\forloopexample\obj\x86\Debug\forloopexample.pdb

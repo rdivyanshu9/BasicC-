@@ -1,0 +1,4 @@
+C:\Users\User\AppData\Local\Temporary Projects\ForEachExample\bin\Debug\ForEachExample.exe
+C:\Users\User\AppData\Local\Temporary Projects\ForEachExample\bin\Debug\ForEachExample.pdb
+C:\Users\User\AppData\Local\Temporary Projects\ForEachExample\obj\x86\Debug\ForEachExample.exe
+C:\Users\User\AppData\Local\Temporary Projects\ForEachExample\obj\x86\Debug\ForEachExample.pdb
